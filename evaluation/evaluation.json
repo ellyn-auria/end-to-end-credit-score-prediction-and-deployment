@@ -1,0 +1,16 @@
+{
+    "multiclass_classification_metrics": {
+        "accuracy": {
+            "value": 0.7204
+        },
+        "f1": {
+            "value": 0.7226
+        },
+        "precision": {
+            "value": 0.7307
+        },
+        "recall": {
+            "value": 0.7204
+        }
+    }
+}
